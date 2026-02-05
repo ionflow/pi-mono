@@ -1,0 +1,11 @@
+{
+  "name": "minimal-example",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@mariozechner/pi-agent-core": "*",
+    "@mariozechner/pi-ai": "*",
+    "@sinclair/typebox": "^0.34.0",
+    "dotenv": "^16.4.0"
+  }
+}
